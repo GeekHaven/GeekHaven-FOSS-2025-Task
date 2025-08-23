@@ -1,0 +1,15 @@
+{
+  "name": "Rahul Raut",
+  "roll_number": "IIT2024168",
+  "email": "rahulskraut@gmail.com",
+  "github_repository": "https://github.com/rahulraut11/foss-task",
+  "submission_date": "2025-08-24",
+  "tasks_completed": {
+    "repository_setup": true,
+    "git_hooks": true,
+    "author_override": true,
+    "testing_script": true,
+    "github_actions": true
+  },
+  "additional_notes": "All tasks completed successfully with proper validation and security measures."
+}
