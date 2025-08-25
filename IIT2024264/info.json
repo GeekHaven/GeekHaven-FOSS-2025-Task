@@ -1,0 +1,15 @@
+
+{
+	"name":"dinesh",
+	"roll_no":"IIT2024264",
+	"email":"din3sh.maila@gmail.com",
+	"repo":"https://github.com/0xmarq/marq-foss",
+	"tasks_status": {
+    	    "repository_setup": "completed",
+    	    "git_hooks": "completed",
+    	    "author_override": "completed",
+    	    "testing_script": "completed",
+    	    "github_actions": "completed"
+  	},
+	"remarks":"Successfully completed all the required tasks."
+}
